@@ -6,7 +6,7 @@ By default, [functions-framework-python](https://github.com/GoogleCloudPlatform/
 
 I present two examples here:
 
-* By using only [one file](examples/onefile/simple.py)
+* By using only [one file](examples/onefile/main.py)
 * By using [flask blueprints](examples/blueprint/main.py)
 
 ## Get started
